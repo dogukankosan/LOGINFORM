@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/dogukankosan/LOGINFORM/raw/main/icons8_login.ico" alt="LoginForm Icon" width="100" />
-</p>
+
 
 # 🔒 LOGINFORM
 
@@ -15,7 +13,7 @@ LOGINFORM, C# ve .NET Framework ile geliştirilmiş, temel kullanıcı giriş (l
 - Kullanıcı adı ve şifre ile giriş
 - Basit ve anlaşılır kullanıcı arayüzü
 - Hatalı giriş uyarıları ve doğrulama mekanizması
-- Modern uygulama ikonu ![App Icon](https://github.com/dogukankosan/LOGINFORM/raw/main/icons8_login.ico)
+- Modern uygulama ikonu 
 
 ---
 
