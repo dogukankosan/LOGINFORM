@@ -60,15 +60,22 @@ LOGINFORM/
 
 ---
 
-## Katkı Sağlama
+## 🤝 Katkı
 
-Katkıda bulunmak için repoyu forklayabilir ve pull request gönderebilirsin.
+Katkı sağlamak için projeyi forklayabilir ve pull request gönderebilirsiniz.
 
 ---
 
-## Lisans
+## 📄 Lisans
 
-MIT Lisansı ile sunulmuştur.
+MIT License
+
+---
+
+## 📬 İletişim
+
+- 👨‍💻 Geliştirici: [@dogukankosan](https://github.com/dogukankosan)  
+- 🐞 Suggestions or issues: [Issues sekmesi](https://github.com/dogukankosan/LogoWhatsappEntegrasyon/issues)
 
 ---
 
